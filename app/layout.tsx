@@ -3,10 +3,6 @@ import "./globals.css";
 
 import {
   ClerkProvider,
-  SignInButton,
-  SignedIn,
-  SignedOut,
-  UserButton,
 } from "@clerk/nextjs";
 import Header from "@/components/page/Header";
 

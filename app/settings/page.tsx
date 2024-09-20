@@ -1,7 +1,6 @@
 "use client";
 
 import Container from "@/components/page/Container";
-import { Button } from "@/components/ui/button";
 import Link from "@/components/ui/link";
 import { useAuth } from "@clerk/nextjs";
 import { Loader } from "lucide-react";
